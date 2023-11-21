@@ -1,4 +1,3 @@
-# Ran on Arm based Architecture on M1 chip
 import pandas as pd
 import tkinter as tk
 from ga import Genetic
@@ -33,11 +32,6 @@ genetic.gen_population()
 locations_pot = pd.read_csv('Location_scaled.csv')
 locations_pot = locations_pot['loc'].tolist()
 locations_pot = [tuple(float(i) for i in x.replace('(', '').replace(')', '').replace('...', '').split(', ')) for x in locations_pot]
-
-# locations_dem = pd.read_csv('demand_norm_loc.csv')
-# locations_dem = locations_dem['X,Y'].tolist()
-# locations_dem = [tuple(float(i) for i in x.replace('(', '').replace(')', '').replace('...', '').split(', ')) for x in locations_dem]
-
 
 # ---------------------------- CONSTANTS ------------------------------- #
 L_PINK = "#2E4C6D"
