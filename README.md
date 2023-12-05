@@ -31,3 +31,7 @@ For the codes of Data Pre-processing refer - [Data Pre Processing.zip](https://g
 ## Implementation
 
 For implementation of the mathematical formulation of this problem please refer - [Implementation.zip](https://github.com/beginner46/DA_GA_FAP/blob/main/Implementation.zip) an overview of the same can be found here [Implementation.txt](https://github.com/beginner46/DA_GA_FAP/blob/main/implementation.txt)
+
+## Full report
+
+For a full report visit - [rpeort](https://github.com/beginner46/DA_GA_FAP/blob/main/report_daga_fap.pdf)
