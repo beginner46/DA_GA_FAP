@@ -12,5 +12,19 @@ In order to achieve this we first try to predict a set of potential points that 
 
 Refer - [a link](https://github.com/beginner46/DA_GA_FAP/blob/main/data.zip)
 
+Contains information about the rescue vehicles requirements (fire trucks, ambulances, rescue tanks and water tanks) of
+various points across three different time intervals of the day.
+
+Contains information regarding various points that can be a potential location. Along with the compactness and
+population density information of various travel routes to them.
+
+The data also contains various shape files that can be used to get an idea of how the points are distributed over a map.
+
 ## Pre processing the data
+
+Refer - [a link](https://github.com/beginner46/DA_GA_FAP/blob/main/Info_data_pre_processing%20.txt)
+
+Performed cleaning of the data, normalized it for computational efficiency and fixed the dimensionality mismatch (previously the data had issues like non-zero travel time between a point and in itself)
+
+For the codes of Data Pre-processing refer - [a link](https://github.com/beginner46/DA_GA_FAP/blob/main/Data%20Pre%20Processing.zip)
 
