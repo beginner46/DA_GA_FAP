@@ -20,6 +20,8 @@ population density information of various travel routes to them.
 
 The data also contains various shape files that can be used to get an idea of how the points are distributed over a map.
 
+For the entire dataset including the location, demand and traveltime data please refer to - [full_data_for_daga_fap_problem.zip](https://github.com/beginner46/DA_GA_FAP/blob/main/full_data_for_daga_fap_problem.zip)
+
 ## Pre processing the data
 
 Refer - [Info_data_pre_processing .txt](https://github.com/beginner46/DA_GA_FAP/blob/main/Info_data_pre_processing%20.txt)
